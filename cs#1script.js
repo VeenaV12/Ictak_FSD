@@ -75,7 +75,7 @@ function sumOfSquare(newArray){
   for (let i=0; i<newArray.length; i++){
     sum +=  Math.pow(newArray[i], 2);
   }
-  console.log("Sum of squares = " + sum)
+  console.log("Sum of squares = " + sum);
 }
 
 const newArray = [2, 4, 9, 10, 76];
